@@ -15,4 +15,6 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-<img src = 'https://github.com/Redwan-Islam/Flutter_MonkeyChatApplication/blob/main/ScreenShot/Screenshot_1644737549.png' width = 200, height = 300>
+#ScreenShot-Preview
+
+<img src = 'https://github.com/Redwan-Islam/Flutter_MonkeyChatApplication/blob/main/ScreenShot/Screenshot_1644737549.png' width = 300, height = 400>
